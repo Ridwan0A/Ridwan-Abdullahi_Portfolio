@@ -6,8 +6,8 @@ The website is live and can be accessed at: https://ridwan-abdullahi-portfolio.v
 
 ## Features
 - About: An introduction to me and my background.
-- Projects: Displays a collection of projects completed by Ridwan Abdullahi.
-- Skills: Highlights the programming languages, databases, frameworks, and tools that Ridwan Abdullahi is proficient in.
+- Projects: Displays a collection of projects completed by me.
+- Skills: Highlights the programming languages, databases, frameworks, and tools that I am is proficient in.
 - Experience: Provides details about my work experience.
 - Contact: Offers a way to get in touch with me.
 
